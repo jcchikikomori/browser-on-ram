@@ -18,6 +18,7 @@ runtime directory before running, depending on how big your browser directories 
 In brackets are the names to be used in the config file
 
 * Firefox (firefox)
+* LibreWolf (librewolf)
 * Chromium (chromium)
 * Google-chrome (google-chrome-stable, google-chrome-beta, google-chrome-unstable)
 * Vivaldi (vivaldi, vivaldi-snapshot)
